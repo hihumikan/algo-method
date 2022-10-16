@@ -1,0 +1,6 @@
+httpx
+fire
+black
+pytest
+pytest-subtests
+beautifulsoup4
